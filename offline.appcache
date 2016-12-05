@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1480883675
+#1480972131
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -27,6 +27,7 @@ images/inventario-sheet0.png
 images/descobertas-sheet0.png
 images/pause-sheet0.png
 images/quadrocenariomuseu-sheet0.png
+images/quadrocenariomuseu-sheet1.png
 images/fundo_escuro-sheet0.png
 images/todos_itens_museu-sheet0.png
 images/pausecontinuar-sheet0.png
@@ -34,6 +35,23 @@ images/pausemenu-sheet0.png
 images/pausecenario-sheet0.png
 images/diario_-sheet0.png
 images/paginadiario-sheet0.png
+images/porta-sheet0.png
+images/rolling-sheet0.png
+images/rolling-sheet1.png
+images/p-sheet0.png
+images/p2-sheet0.png
+images/p3-sheet0.png
+images/p4-sheet0.png
+images/p5-sheet0.png
+images/p6-sheet0.png
+images/p7-sheet0.png
+images/p8-sheet0.png
+images/fundo_minigame1-sheet0.png
+images/empty_mingame1-sheet0.png
+images/empty_mingame1-sheet1.png
+images/botaodica-sheet0.png
+images/tutorialminigame-sheet0.png
+images/botaosair-sheet0.png
 icon-16.png
 icon-32.png
 icon-114.png
