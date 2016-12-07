@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1480991008
+#1481109204
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -63,5 +63,15 @@ icon-114.png
 icon-128.png
 icon-256.png
 loading-logo.png
+amaticsc-bold.ttf
+amaticsc-bold-demo.html
+amaticsc-bold-webfont.woff
+amaticsc-bold-webfont.woff2
+amaticsc-regular.ttf
+amaticsc-regular-demo.html
+amaticsc-regular-webfont.woff
+amaticsc-regular-webfont.woff2
+generator_config.txt
+stylesheet.css
 NETWORK:
 *
