@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1481122846
+#1481266148
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -31,6 +31,7 @@ images/quadrocenariomuseu-sheet1.png
 images/fundo_escuro-sheet0.png
 images/todos_itens_museu-sheet0.png
 images/todos_itens_museu-sheet1.png
+images/todos_itens_museu-sheet2.png
 images/pausecontinuar-sheet0.png
 images/pausemenu-sheet0.png
 images/pausecenario-sheet0.png
@@ -57,6 +58,18 @@ images/placeholder_items-sheet0.png
 images/placeholder_items-sheet1.png
 images/removedor-sheet0.png
 images/armario-sheet0.png
+images/appstore-sheet0.png
+images/disponívelnagoogleplaystore-sheet0.png
+media/abrindo-gaveta_01.ogg
+media/abrindo-inventario_01.ogg
+media/clicando-botoes_01.ogg
+media/entrando-no-cenario_01.ogg
+media/saindo-do-cenario_01.ogg
+media/limpando.ogg
+media/win_01.ogg
+media/main-menu.ogg
+media/museu.ogg
+media/ilha_01.ogg
 icon-16.png
 icon-32.png
 icon-114.png
